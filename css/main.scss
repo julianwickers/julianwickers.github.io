@@ -1,18 +1,18 @@
-@main-color: #333;
+$main-color: #333;
 
 .navbar {
 	//border-top: 6px solid @main-color;
 	.navbar-brand {
-		color: @main-color;
+		color: $main-color;
 		font-weight: bold;
 		&:hover {
-			color: @main-color;
+			color: $main-color;
 		}
 	}
 	.navbar-nav > li >a {
-		color: @main-color;
+		color: $main-color;
 		&:hover {
-			color: @main-color;
+			color: $main-color;
 		}
 	}
 }
@@ -79,7 +79,7 @@ ul.post-list {
 		margin-bottom: 0px;
 		margin-top: 0px;
 		a {
-			color: @main-color;
+			color: $main-color;
 		}
 	}
 	.body , .body p {
