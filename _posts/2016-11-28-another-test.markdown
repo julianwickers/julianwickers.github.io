@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 excerpt: >-
   Can you get off your couch and be ready for a marathon in only 2 weeks?  You
