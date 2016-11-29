@@ -2,7 +2,11 @@
 published: true
 title: Test Post
 layout: post
-tags: [Running, Fitness, Fun]
+tags:
+  - Running
+  - Fitness
+  - Fun
+excerpt: This is the excerpt for this post.  Ta-da!
 ---
 #### Title ####
 
