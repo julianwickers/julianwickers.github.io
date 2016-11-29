@@ -1,0 +1,9 @@
+---
+published: true
+title: Test Post
+layout: post
+tags: [Running, Fitness, Fun]
+---
+## Title ##
+
+This is a test post.
