@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="post-container text-center">
+
+  <h1 class="page-title"> Archive </h1>
+
+  <ul class="list list-unstyled">
+     {% for post in site.posts %}
+      <li>
+
+        <h5>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h5>
+      </li>
+    {% endfor %}
+  </ul>
+
+<!--   <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul> -->
+
+  <!-- <a class="btn btn-default btn-lg" href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe via RSS</a> -->
+
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+
+</div>

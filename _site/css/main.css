@@ -1,0 +1,83 @@
+.navbar .navbar-brand {
+  color: #333333;
+  font-weight: bold;
+}
+.navbar .navbar-brand:hover {
+  color: #333333;
+}
+.navbar .navbar-nav > li > a {
+  color: #333333;
+}
+.navbar .navbar-nav > li > a:hover {
+  color: #333333;
+}
+body {
+  font-family: "Merriweather", serif;
+  margin-top: 75px;
+  letter-spacing: 0.01rem;
+  -webkit-font-feature-settings: 'kern' 1;
+  -moz-font-feature-settings: 'kern' 1;
+  -o-font-feature-settings: 'kern' 1;
+}
+h1 {
+  font-size: 5rem;
+}
+.post-container {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  text-align: left;
+}
+.post-content {
+  font-size: 1.8rem;
+  color: #3A4145;
+  margin-bottom: 25px;
+  line-height: 1.75em;
+  -webkit-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
+}
+.post-content p {
+  margin: 0 0 1.75em 0;
+}
+.post-title {
+  margin-bottom: 4px;
+  text-align: left;
+}
+.post-date {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+.post-header {
+  text-align: left;
+  margin-bottom: 45px;
+}
+ul.post-list li {
+  padding: 35px 0px;
+  border-bottom: 1px solid #eee;
+}
+ul.post-list li:last-child {
+  border: none;
+}
+ul.post-list .title {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+ul.post-list .title a {
+  color: #333333;
+}
+ul.post-list .body,
+ul.post-list .body p {
+  margin-bottom: 0px;
+}
+ul.post-list .subtitle {
+  color: #777;
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 750px;
+  }
+}
+#about-me,
+#contact {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}

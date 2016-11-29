@@ -1,3 +1,52 @@
-<h1>Sup Dude</h1>
+---
+layout: default
+---
+
+<div class="post-container">
 
 
+	<ul class="post-list list-unstyled">
+
+    {% for post in site.posts %}
+      <li>
+          <h2 class="title"><a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <p class="subtitle"> <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span></p>
+          <div class="body post-content">
+          {{ post.excerpt }}
+          </div>
+      </li>
+    {% endfor %}
+
+    </ul>
+
+
+  <p>
+    <a href="#" class="btn btn-primary btn-large">See All Posts <span class="glyphicon glyphicon-menu-right"></span></a>
+  </p>
+
+
+<!--   <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+
+</div>
+
+<!--
+
+  <h1 class="page-title"> {{ site.posts[0].title }} </h1>
+
+  <div class="post-content">
+    {{ site.posts[0].content}}
+  </div>
+
+ -->
