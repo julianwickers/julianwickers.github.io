@@ -1,7 +1,11 @@
 ---
 published: false
 layout: post
-excerpt: This is an excerpt.
+excerpt: >-
+  Can you get off your couch and be ready for a marathon in only 2 weeks?  You
+  bet.  
+date: '2016-11-24 10:41:12 -0400'
+categories: goals productivity improvement
 ---
 ### A New Post
 
