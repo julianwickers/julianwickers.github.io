@@ -4,10 +4,10 @@
     <title>AmishHabits</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://amishhabits.com/</link>
-    <atom:link href="http://amishhabits.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Nov 2016 21:43:30 -0500</pubDate>
-    <lastBuildDate>Mon, 28 Nov 2016 21:43:30 -0500</lastBuildDate>
+    <link>https://julianwickers.github.io/</link>
+    <atom:link href="https://julianwickers.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 28 Nov 2016 21:48:47 -0500</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2016 21:48:47 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -58,8 +58,8 @@
 
 </description>
         <pubDate>Thu, 24 Nov 2016 09:41:12 -0500</pubDate>
-        <link>http://amishhabits.com/goals/productivity/improvement/2016/11/24/marathon.html</link>
-        <guid isPermaLink="true">http://amishhabits.com/goals/productivity/improvement/2016/11/24/marathon.html</guid>
+        <link>https://julianwickers.github.io/goals/productivity/improvement/2016/11/24/marathon.html</link>
+        <guid isPermaLink="true">https://julianwickers.github.io/goals/productivity/improvement/2016/11/24/marathon.html</guid>
         
         
         <category>goals</category>
@@ -89,8 +89,8 @@
 &lt;p&gt;Congratulations!  You have just accomplished three important goals.  You are one very tiny step closer to becoming an internet celebrity like myself.&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Nov 2016 09:41:12 -0500</pubDate>
-        <link>http://amishhabits.com/goals/productivity/improvement/2016/11/18/beer.html</link>
-        <guid isPermaLink="true">http://amishhabits.com/goals/productivity/improvement/2016/11/18/beer.html</guid>
+        <link>https://julianwickers.github.io/goals/productivity/improvement/2016/11/18/beer.html</link>
+        <guid isPermaLink="true">https://julianwickers.github.io/goals/productivity/improvement/2016/11/18/beer.html</guid>
         
         
         <category>goals</category>
@@ -119,8 +119,8 @@
 
 </description>
         <pubDate>Sat, 23 Apr 2016 10:41:12 -0400</pubDate>
-        <link>http://amishhabits.com/jekyll/update/2016/04/23/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://amishhabits.com/jekyll/update/2016/04/23/welcome-to-jekyll.html</guid>
+        <link>https://julianwickers.github.io/jekyll/update/2016/04/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://julianwickers.github.io/jekyll/update/2016/04/23/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -147,8 +147,8 @@
 
 </description>
         <pubDate>Wed, 20 Apr 2016 10:41:12 -0400</pubDate>
-        <link>http://amishhabits.com/jekyll/update/2016/04/20/another-post.html</link>
-        <guid isPermaLink="true">http://amishhabits.com/jekyll/update/2016/04/20/another-post.html</guid>
+        <link>https://julianwickers.github.io/jekyll/update/2016/04/20/another-post.html</link>
+        <guid isPermaLink="true">https://julianwickers.github.io/jekyll/update/2016/04/20/another-post.html</guid>
         
         
         <category>jekyll</category>
@@ -175,8 +175,8 @@
 
 </description>
         <pubDate>Tue, 19 Apr 2016 10:41:12 -0400</pubDate>
-        <link>http://amishhabits.com/jekyll/update/2016/04/19/green-tea.html</link>
-        <guid isPermaLink="true">http://amishhabits.com/jekyll/update/2016/04/19/green-tea.html</guid>
+        <link>https://julianwickers.github.io/jekyll/update/2016/04/19/green-tea.html</link>
+        <guid isPermaLink="true">https://julianwickers.github.io/jekyll/update/2016/04/19/green-tea.html</guid>
         
         
         <category>jekyll</category>
